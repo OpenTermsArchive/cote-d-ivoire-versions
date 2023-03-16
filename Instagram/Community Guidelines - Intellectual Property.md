@@ -189,7 +189,7 @@ Le moyen le plus simple et le plus rapide de transmettre un signalement DMCA pou
 
 Si vous souhaitez contacter notre agent par d’autres méthodes (plus lentes), vous pouvez utiliser les coordonnées suivantes :
 
-Instagram, LLC  
+Meta Platforms, LLC  
 Attn: Instagram Designated Agent  
 1601 Willow Road  
 Menlo Park, California 94025, États-Unis  
