@@ -1683,7 +1683,7 @@ Comment protégeons-nous vos informations ?
 
 Nous nous appuyons sur des [mécanismes appropriés\[54\]](#annotation-54) pour les transferts de données internationaux.
 
-Nous nous assurons également que des protections appropriées sont en place quand nous transférons vos informations. Par exemple, nous chiffrons vos informations lorsqu’elles sont transmises par des réseaux publics pour éviter tout accès non autorisé.
+Nous veillons également à ce que des garanties appropriées soient mises en place quand nous transférons vos informations. Par exemple, nous chiffrons vos informations lorsqu’elles sont transmises par des réseaux publics pour éviter tout accès non autorisé.
 
 54
 
