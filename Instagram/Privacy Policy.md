@@ -71,9 +71,9 @@ Lisez la politique complète ci-dessous.
 
 [Quels produits cette politique couvre-t-elle ? \[1\]
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](#annotation-1)[En savoir plus sur la gestion de votre confidentialité dans notre Centre de confidentialité
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](#annotation-1)[En savoir plus sur la gestion de votre confidentialité dans notre Centre de confidentialité
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](https://www.facebook.com/privacy/center/)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://www.facebook.com/privacy/center/)
 
 1
 
@@ -104,17 +104,17 @@ Politiques supplémentaires
 
 [Bulletin
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://www.facebook.com/legal/bulletin/data_policy)[Produits Facebook Portal
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://www.facebook.com/legal/bulletin/data_policy)[Produits Facebook Portal
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://portal.facebook.com/legal/data-policy/)[Facebook View
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://portal.facebook.com/legal/data-policy/)[Facebook View
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://www.facebook.com/help/ray-ban-stories/data-policy)[Free Basics
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://www.facebook.com/help/ray-ban-stories/data-policy)[Free Basics
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://www.facebook.com/legal/internet.org_fbsterms)[Produits Meta Platforms Technologies
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://www.facebook.com/legal/internet.org_fbsterms)[Produits Meta Platforms Technologies
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://www.oculus.com/legal/privacy-policy/)[Conseil de surveillance
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://www.oculus.com/legal/privacy-policy/)[Conseil de surveillance
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://oversightboard.com/data-policy/)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://oversightboard.com/data-policy/)
 
 [Revenir en haut![](https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/FiHZlThO0yK.png)](#)
 
@@ -218,11 +218,9 @@ Les Partenaires partagent également avec nous les communications qu’ils tienn
 Rester aux commandes
 --------------------
 
-[![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/kpyNorG7SDa.png)
+[Activité en dehors de Facebook
 
-Activité en dehors de Facebook
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/nf3GQD4r9vX.png)![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AOFF_FACEBOOK_ACTIVITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A1.subpage.4-InformationFromPartnersVendors&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foff_facebook_activity%2F)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/Ugp5T2TLXQD.png)![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AOFF_FACEBOOK_ACTIVITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A1.subpage.4-InformationFromPartnersVendors&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foff_facebook_activity%2F)
 
 Comment recueillons-nous ou recevons-nous ces informations de partenaires ?
 ---------------------------------------------------------------------------
@@ -247,7 +245,7 @@ Prendre les commandes dans le Centre de confidentialité
 
 Gérer les informations que nous recueillons à votre sujet
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](https://www.facebook.com/privacy/guide/collection/)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://www.facebook.com/privacy/guide/collection/)
 
 3
 
@@ -377,9 +375,9 @@ Plus d’informations dans la Politique de confidentialité
 
 [Comment utilisons-nous vos informations ?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](#2-HowDoWeUse)[Comment procédons-nous pour répondre aux demandes légales, nous conformer à la loi applicable et éviter tout risque de préjudice ?
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](#2-HowDoWeUse)[Comment procédons-nous pour répondre aux demandes légales, nous conformer à la loi applicable et éviter tout risque de préjudice ?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](#10-HowDoWeRespond)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](#10-HowDoWeRespond)
 
 10
 
@@ -462,7 +460,7 @@ Plus d’informations dans la Politique de confidentialité
 
 [Comment utilisons-nous vos informations ?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](#2-HowDoWeUse)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](#2-HowDoWeUse)
 
 17
 
@@ -533,7 +531,7 @@ Plus d’informations dans la Politique de confidentialité
 
 [Comment utilisons-nous vos informations ?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](#2-HowDoWeUse)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](#2-HowDoWeUse)
 
 21
 
@@ -587,7 +585,7 @@ Prendre les commandes dans le Centre de confidentialité
 
 En savoir plus sur le fonctionnement des publicités
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](https://www.facebook.com/privacy/guide/ads/)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://www.facebook.com/privacy/guide/ads/)
 
 Comment nous utilisons les informations pour améliorer nos Produits
 -------------------------------------------------------------------
@@ -623,9 +621,9 @@ Autres ressources
 
 [Comment gérer les paramètres de localisation de Facebook Pages d’aide Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://www.facebook.com/help/337244676357509)[Comment activer et désactiver les services de localisation d’Instagram Pages d’aide Instagram
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://www.facebook.com/help/337244676357509)[Comment activer et désactiver les services de localisation d’Instagram Pages d’aide Instagram
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F171821142968851)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F171821142968851)
 
 ### Pour promouvoir la sûreté, l’intégrité et la sécurité
 
@@ -679,11 +677,9 @@ Voici certaines façons dont nous promouvons la sûreté, la sécurité et l’i
 Rester aux commandes
 --------------------
 
-[![](https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/AvD5-68Lod9.png)
+[Sécurité du compte
 
-Sécurité du compte
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCOUNT_SECURITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A2.subpage.8-PromotingSafetySecurityAnd&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-2%26link_dialog%3DACCOUNT_SECURITY%26entry%3D0)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCOUNT_SECURITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A2.subpage.8-PromotingSafetySecurityAnd&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-2%26link_dialog%3DACCOUNT_SECURITY%26entry%3D0)
 
 Fournir des mesures, des analyses et des services professionnels
 ----------------------------------------------------------------
@@ -701,7 +697,7 @@ Plus d’informations dans la Politique de confidentialité
 
 [Comment partageons-nous des informations avec des Partenaires, des fournisseurs, des prestataires de services et des tiers ?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](#4-HowDoWeShare)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](#4-HowDoWeShare)
 
 Communiquer avec vous
 ---------------------
@@ -720,11 +716,9 @@ Nous utilisons également les informations sur la manière dont vous interagisse
 Rester aux commandes
 --------------------
 
-[![](https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/dXdmJQFpf18.png)
+[Préférences de communication
 
-Préférences de communication
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ACOMMUNICATION_PREFERENCES&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A2.subpage.12-CommunicatingWithYouWe&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-3%26link_dialog%3DCOMMUNICATION_PREFERENCES%26entry%3D0)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ACOMMUNICATION_PREFERENCES&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A2.subpage.12-CommunicatingWithYouWe&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-3%26link_dialog%3DCOMMUNICATION_PREFERENCES%26entry%3D0)
 
 Mener des recherches et innover pour le bien-être social
 --------------------------------------------------------
@@ -749,7 +743,7 @@ Plus d’informations dans la Politique de confidentialité
 
 [Finalités et moyens du traitement de vos informations
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](#19-WhyAndHowWe)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](#19-WhyAndHowWe)
 
 22
 
@@ -771,7 +765,7 @@ Autres ressources
 
 [Comment ajouter ou supprimer des comptes dans votre Espace Comptes ? Pages d’aide Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://www.facebook.com/help/213446087365127/)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://www.facebook.com/help/213446087365127/)
 
 23
 
@@ -818,7 +812,7 @@ Autres ressources
 
 [Gérer les préférences de votre Fil Facebook Pages d’aide Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://www.facebook.com/help/964154640320617/control-what-you-see-in-news-feed)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://www.facebook.com/help/964154640320617/control-what-you-see-in-news-feed)
 
 26
 
@@ -997,9 +991,9 @@ Autres ressources
 
 [Supprimer une identification d’une photo ou d’une publication sur Facebook Pages d’aide Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://www.facebook.com/help/140906109319589)[Supprimer une identification d’une photo ou d’une vidéo sur Instagram Pages d’aide Instagram
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://www.facebook.com/help/140906109319589)[Supprimer une identification d’une photo ou d’une vidéo sur Instagram Pages d’aide Instagram
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F178891742266091)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F178891742266091)
 
 Contenu public
 --------------
@@ -1035,9 +1029,9 @@ Autres ressources
 
 [Informations publiques sur Facebook Pages d’aide Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://www.facebook.com/help/203805466323736?ref=dp)[Comment rendre un compte public privé sur Instagram Pages d’aide Instagram
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://www.facebook.com/help/203805466323736?ref=dp)[Comment rendre un compte public privé sur Instagram Pages d’aide Instagram
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F448523408565555)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F448523408565555)
 
 Avec les Partenaires intégrés
 -----------------------------
@@ -1083,9 +1077,9 @@ Autres ressources
 
 [Comment gérer les applications et les sites web sur Facebook Pages d’aide Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://www.facebook.com/help/1727608884153160/app-visibility-and-privacy)[Comment gérer les applications et les sites web sur Instagram Pages d’aide Instagram
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://www.facebook.com/help/1727608884153160/app-visibility-and-privacy)[Comment gérer les applications et les sites web sur Instagram Pages d’aide Instagram
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1144624522593085)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1144624522593085)
 
 Lorsque vous interagissez avec le contenu de quelqu’un d’autre via le produit ou le service d’un Partenaire intégré
 -------------------------------------------------------------------------------------------------------------------
@@ -1104,7 +1098,7 @@ Autres ressources
 
 [Comment Meta examine les applications intégrées dans nos Produits Développeurs Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://developers.facebook.com/docs/apps/review/)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://developers.facebook.com/docs/apps/review/)
 
 Rester aux commandes
 --------------------
@@ -1113,11 +1107,11 @@ Rester aux commandes
 
 En savoir plus sur les audiences dans le Centre de confidentialité
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](https://www.facebook.com/privacy/guide/sharing/)[![](https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/XtwrIbI7mD8.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://www.facebook.com/privacy/guide/sharing/)[![](https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/XtwrIbI7mD8.png)
 
 Gérer les applications et les sites web
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AMANAGE_APPS&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A3-HowIsYourInformation&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-5%26link_dialog%3DMANAGE_APPS%26entry%3D0)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AMANAGE_APPS&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A3-HowIsYourInformation&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-5%26link_dialog%3DMANAGE_APPS%26entry%3D0)
 
 34
 
@@ -1139,7 +1133,7 @@ Rester aux commandes
 
 [Paramètres d’audience Gérer vos paramètres d’audience sur Facebook ou Instagram.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AAUDIENCE_SETTINGS&element=privacy_policy_list_cell&containing_element_id=POLICY_ANNOTATION%3A3.ex.2-ChoosingAnAudienceOn&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Flink_dialog%3DAUDIENCE_SETTINGS%26entry%3D0)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AAUDIENCE_SETTINGS&element=privacy_policy_list_cell&containing_element_id=POLICY_ANNOTATION%3A3.ex.2-ChoosingAnAudienceOn&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Flink_dialog%3DAUDIENCE_SETTINGS%26entry%3D0)
 
 ### Les paramètres d’audience sont différents des autorisations de l’application.
 
@@ -1438,7 +1432,7 @@ Autres ressources
 
 [Consulter les politiques de confidentialité des autres entités Meta Pages d’aide Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://www.facebook.com/help/111814505650678)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://www.facebook.com/help/111814505650678)
 
 45
 
@@ -1486,45 +1480,31 @@ Vérifier vos paramètres de confidentialité
 
 Vérifier vos paramètres de confidentialité Être guidé au travers des paramètres de confidentialité de Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://www.facebook.com/privacy/checkup/)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://www.facebook.com/privacy/checkup/)
 
 Visualiser et gérer vos informations
 ------------------------------------
 
-[![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/kpyNorG7SDa.png)
+[Accéder à vos informations
 
-Accéder à vos informations
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCESS_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-6%26link_dialog%3DACCESS_YOUR_INFORMATION%26entry%3D0)[Activité en dehors de Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCESS_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-6%26link_dialog%3DACCESS_YOUR_INFORMATION%26entry%3D0)[![](https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/BRu0NbJyivI.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/Ugp5T2TLXQD.png)![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AOFF_FACEBOOK_ACTIVITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foff_facebook_activity%2F)[Préférences publicitaires
 
-Activité en dehors de Facebook
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/Ugp5T2TLXQD.png)![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AAD_PREFERENCES&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fsettings%2Fads%2F)[Gérer vos données
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/nf3GQD4r9vX.png)![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AOFF_FACEBOOK_ACTIVITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foff_facebook_activity%2F)[![](https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/ReVUmFh0Zdr.png)
-
-Préférences publicitaires
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/nf3GQD4r9vX.png)![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AAD_PREFERENCES&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fsettings%2Fads%2F)[![](https://static.xx.fbcdn.net/rsrc.php/v3/yN/r/SrsbTdieHv-.png)
-
-Gérer vos données
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/CSm75Rjt0SM.png)](https://www.facebook.com/help/contact/1638046109617856)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://www.facebook.com/help/contact/1638046109617856)
 
 Transférer, télécharger ou supprimer vos informations
 -----------------------------------------------------
 
-[![](https://static.xx.fbcdn.net/rsrc.php/v3/yN/r/SrsbTdieHv-.png)
+[Transférer vos informations \[46\]
 
-Transférer vos informations \[46\]
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](#annotation-46)[Télécharger vos informations
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](#annotation-46)[![](https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/DOExC--Zoqs.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ADOWNLOAD_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-9%26link_dialog%3DDOWNLOAD_YOUR_INFORMATION%26entry%3D0)[Supprimer vos informations ou votre compte \[47\]
 
-Télécharger vos informations
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ADOWNLOAD_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-9%26link_dialog%3DDOWNLOAD_YOUR_INFORMATION%26entry%3D0)[![](https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/f7zlDD3fmHH.png)
-
-Supprimer vos informations ou votre compte \[47\]
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/yoS6R4yoEE1.png)](#annotation-47)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](#annotation-47)
 
 Vous pouvez en savoir plus au sujet de la confidentialité sur [Facebook](https://www.facebook.com/privacy/center/) et sur [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp) ainsi que sur les [Pages d’aide Facebook](https://www.facebook.com/help/). Pour toute question concernant la présente politique, vous pouvez [nous contacter](https://www.facebook.com/help/contact/507739850846588) par les moyens décrits ci-dessous. Dans certains pays, vous pouvez également contacter le Délégué à la Protection des Données de Meta Platforms, Inc. et, selon votre juridiction, vous pouvez également contacter directement votre Autorité de Protection des Données (« APD ») locale.
 
