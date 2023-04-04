@@ -147,13 +147,13 @@ Informations bénéficiant de protections spéciales
 
 Vous pouvez choisir de fournir des informations sur vos croyances religieuses, votre orientation sexuelle, vos opinions politiques, votre santé, votre origine ethnique ou raciale, vos croyances philosophiques ou votre adhésion à un syndicat. Ces informations et d’autres types d’informations peuvent faire l’objet de protections spéciales selon les lois de votre juridiction.
 
-Amis, abonnés et autres relations
----------------------------------
+Amis, followers et autres relations
+-----------------------------------
 
-Informations que nous recueillons à propos de vos amis, de vos abonnés et d’autres relations
---------------------------------------------------------------------------------------------
+Informations que nous recueillons à propos de vos amis, de vos followers et d’autres relations
+----------------------------------------------------------------------------------------------
 
-Nous recueillons des informations à propos des amis, abonnés, groupes, comptes, Pages Facebook et autres utilisateurs et communautés avec lesquels vous êtes en contact et interagissez. Cela comprend la manière dont vous interagissez par le biais de nos Produits et les éléments avec lesquels vous interagissez le plus.
+Nous recueillons des informations à propos des amis, followers, groupes, comptes, Pages Facebook et autres utilisateurs et communautés avec lesquels vous êtes en contact et interagissez. Cela comprend la manière dont vous interagissez par le biais de nos Produits et les éléments avec lesquels vous interagissez le plus.
 
 Informations que nous recueillons à propos des contacts
 -------------------------------------------------------
@@ -572,7 +572,7 @@ Pour décider ce que nous vous montrons et montrons à d’autres, nous utilison
 * Vos informations de profil
 * Les informations relatives à votre activité sur nos Produits et en dehors, notamment celles que nous recevons grâce aux cookies et aux technologies similaires, en fonction de vos paramètres
 * Les choses que nous déduisons à votre sujet, comme les sujets qui pourraient vous intéresser
-* Des informations à propos de vos amis, de vos abonnés et de vos autres relations, y compris leur activité ou leurs centres d’intérêt
+* Des informations à propos de vos amis, de vos followers et de vos autres relations, y compris leur activité ou leurs centres d’intérêt
 
 [Voir des exemples.\[26\]](#annotation-26)
 
@@ -598,7 +598,7 @@ Nous utilisons les informations que nous recueillons pour :
 * Résoudre et corriger les éventuels problèmes
 * Tester nos nouveaux produits et fonctionnalités pour vérifier qu’ils fonctionnent bien
 * Recueillir des avis sur nos idées de produits ou fonctionnalités
-* Organiser des sondages et d’autres recherches pour déterminer ce que vous aimez de nos Produits et marques, et ce qui peut être amélioré.
+* Organiser des sondages et d’autres recherches pour déterminer ce que vous aimez de nos Produits et marques, et ce qui peut être amélioré
 
 Comment nous utilisons les informations géographiques
 -----------------------------------------------------
@@ -1255,7 +1255,7 @@ Les partenaires qui font de la publicité avec nous reçoivent également d’au
 Les partenaires qui proposent des biens ou des services sur nos Produits et nos plateformes de services commerciaux
 -------------------------------------------------------------------------------------------------------------------
 
-Lorsque vous choisissez [d’effectuer une transaction\[41\]](#annotation-41) ou de partager des informations avec un vendeur, un créateur, un collecteur de fonds, une œuvre de bienfaisance, un fournisseur de services de paiement ou une [plate-forme de services commerciaux\[42\]](#annotation-42), nous partageons vos informations avec eux et avec tous les prestataires de services qui agissent en leur nom.
+Lorsque vous choisissez [d’effectuer une transaction\[41\]](#annotation-41) ou de partager des informations avec un vendeur, un créateur, un collecteur de fonds, une œuvre de bienfaisance, un fournisseur de services de paiement ou une [plateforme de services commerciaux\[42\]](#annotation-42), nous partageons vos informations avec eux et avec tous les prestataires de services qui agissent en leur nom.
 
 En fonction de la manière dont vous interagissez avec eux, ils reçoivent :
 
@@ -1329,7 +1329,7 @@ Les objectifs de recherche incluent le soutien de :
 * Intérêt public
 * Santé et bien-être
 
-Lorsque nous partageons des données avec des chercheurs externes, nous veillons à protéger la confidentialité de nos utilisateurs. [En savoir plus](https://lm.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2Fdata%2F) sur la recherche en matière de protection de la vie privée que nous soutenons.
+Lorsque nous partageons des informations avec des chercheurs externes, nous veillons à protéger la vie privée de nos utilisateurs. [En savoir plus](https://lm.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2Fdata%2F) sur la recherche en matière de protection de la vie privée que nous soutenons.
 
 Autres occasions où nous communiquons avec des tiers.
 -----------------------------------------------------
