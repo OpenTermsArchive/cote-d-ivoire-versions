@@ -4,7 +4,7 @@ Personnes décédées
 ### Vue d'ensemble
 
 **  
-Janvier 2023**
+Mars 2023**
 
 Le partage d'images ou de vidéos d'une personne décédée peut être à l'origine d'une grande souffrance pour sa famille et peut également avoir un impact négatif sur le bien‑être de ceux qui voient ce contenu. Par respect pour la personne décédée et les personnes touchées par sa mort, et pour réduire l'impact de l'exposition non souhaitée à des médias crus, nous pouvons vous demander de supprimer les images et les vidéos montrant le décès d'un individu identifiable.   
 
@@ -26,7 +26,7 @@ Parmi les types de contenus qui peuvent être concernés par cette politique, ci
 
 ### Qu'est‑ce qui ne constitue pas une infraction à cette politique ?
 
-Twitter prend en compte des facteurs d'intérêt public lors de l'examen des signalements d'images et de vidéos représentant des personnes décédées. Dans de rares circonstances, il est possible que nous ne supprimions pas ce média, même après réception d'un signalement valide, par exemple dans le cas de photos prises par la police ou d'événements d'actualité.
+Twitter prend en compte des facteurs d'intérêt public lors de l'examen des signalements d'images et de vidéos représentant des personnes décédées. Dans de rares circonstances, il est possible que nous ne supprimions pas le média en question ou que nous ne limitions pas sa visibilité, même après réception d'un signalement valide. Ce peut être le cas, par exemple, de photos prises par la police ou d'événements d'actualité.
 
 ### Qui peut signaler des infractions à cette politique ?  
 
