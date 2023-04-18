@@ -14,7 +14,7 @@ Les présentes Conditions d'utilisation (« Conditions ») régissent votre ac
 
 **Si vous résidez en dehors de l'Union européenne, des États de l'AELE ou du Royaume‑Uni, notamment si vous vivez aux États‑Unis,** les présentes Conditions constituent un accord entre vous‑même et X Corp., qui fournit Twitter et ses Services, et dont l'adresse est la suivante : 1355 Market Street, Suite 900, San Francisco, CA 94103, États‑Unis. Les mots « nous », « notre » et « nos » se rapportent à X Corp.
 
-**Si vous résidez dans l'Union européenne, dans les États de l'AELE ou au Royaume‑Uni**, les présentes Conditions constituent un accord entre vous‑même et Twitter International Unlimited Company (n ° d'entreprise 503351, n ° de TVA IE9803175Q), société irlandaise dont le siège social est sis à One Cumberland Place, Fenian Street Dublin 2, D02 AX07, Irlande.Les mots « nous », « notre » et « nos » se rapportent à Twitter International Company.
+**Si vous résidez dans l'Union européenne, dans les États de l'AELE ou au Royaume‑Uni**, les présentes Conditions constituent un accord entre vous‑même et Twitter International Unlimited Company (n ° d'entreprise 503351, n ° de TVA IE9803175Q), société irlandaise dont le siège social est sis à One Cumberland Place, Fenian Street Dublin 2, D02 AX07, Irlande. Les mots « nous », « notre » et « nos » se rapportent à Twitter International Company.
 
 1\. Qui peut utiliser les Services ?
 ------------------------------------
