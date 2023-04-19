@@ -88,9 +88,11 @@ Autres exemples
 
 Pour rappel, il ne s'agit que d'exemples. Ne publiez pas un contenu si vous pensez qu'il est susceptible d'enfreindre ces règles.
 
-Que se passe-t-il si un contenu ne respecte pas ces règles ?
-------------------------------------------------------------
+Que se passe-t-il si un contenu ne respecte pas ce règlement ?
+--------------------------------------------------------------
 
-Si votre contenu enfreint ces règles, nous le supprimerons et vous enverrons un e-mail pour vous informer de cette décision. Si c'est la première fois que vous ne respectez pas le règlement de la communauté, vous recevrez probablement une mise en garde sans aucune sanction pour votre chaîne. Si ce n'est pas la première fois, vous risquez de recevoir un avertissement. Si vous recevez trois avertissements en l'espace de 90 jours, votre chaîne sera clôturée. En savoir plus sur notre [système d'avertissement](https://support.google.com/youtube/answer/2802032)
+Si votre contenu enfreint ce règlement, nous le supprimerons et vous enverrons un e-mail pour vous informer de cette décision. Si nous ne pouvons pas vérifier qu'un lien que vous publiez est sécurisé, nous pouvons le supprimer.
+
+Si c'est la première fois que vous ne respectez pas le règlement de la communauté, vous recevrez probablement une mise en garde sans aucune sanction pour votre chaîne. Si ce n'est pas la première fois, vous risquez de recevoir un avertissement. Si vous recevez trois avertissements en l'espace de 90 jours, votre chaîne sera clôturée. En savoir plus sur notre [système d'avertissements](https://support.google.com/youtube/answer/2802032)
 
 Nous pouvons clôturer votre chaîne ou votre compte si vous enfreignez de manière répétée le règlement de la communauté ou les conditions d'utilisation. Nous pouvons également prendre une telle mesure si vous commettez un abus grave ou si l'objectif de la chaîne en question est d'enfreindre les règles. En savoir plus sur la [clôture de chaînes et de comptes](https://support.google.com/youtube/answer/2802168)
