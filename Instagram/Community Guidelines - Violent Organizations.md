@@ -1,4 +1,4 @@
-Individus et organismes dangereux
+Organismes et individus dangereux
 =================================
 
 #### Justification de cette politique
@@ -7,7 +7,7 @@ Afin d’éviter et d’empêcher tout danger réel, les organisations ou indivi
 
 Le **niveau 1** se concentre sur les entités engagées dans des actes de violence hors ligne graves, notamment en organisant ou en prônant des actes de violence envers des civils, en déshumanisant ou en prônant à maintes reprises des actes de violence envers des personnes sur la base de caractéristiques protégées, ou en se livrant à des actes criminels systématiques. Les entités de niveau 1 comprennent les organisations terroristes, criminelles et incitant à la haine. Nous supprimons les éloges, les soutiens techniques et les représentations des entités de niveau 1 ainsi que de leurs dirigeants, fondateurs ou membres éminents. Le niveau 1 comprend les organisations incitant à la haine ; les organisations criminelles, notamment celles que les États-Unis nomment Specially Designated Narcotics Trafficking Kingpins (c’est-à-dire les plaques tournantes du trafic de drogues) ; ainsi que les organisations terroristes, notamment les personnes et les entités que les États-Unis qualifient de Foreign Terrorist Organizations ou de Specially Designated Global Terrorists (organisations étrangères considérées comme terroristes). Nous supprimons les éloges, les soutiens techniques et les représentations des entités de niveau 1 ainsi que de leurs dirigeants, fondateurs ou membres éminents.
 
-En outre, nous n’autorisons pas les contenus qui glorifient, soutiennent techniquement ou représentent des évènements que Facebook désigne comme des évènements violents en infraction, en ce compris des attaques terroristes, des évènements incitant à la haine, des (tentatives de) tueries, des meurtres en série ou des crimes de haine. Nous n’autorisons pas non plus les éloges, les soutiens techniques et les représentations des auteurs de ces attaques. Par ailleurs, nous supprimons les contenus qui glorifient, soutiennent techniquement ou représentent des idéologies qui incitent à la haine, telles que le nazisme et la suprématie blanche.
+En outre, nous n’autorisons pas les contenus qui glorifient, soutiennent techniquement ou représentent des évènements que Meta désigne comme des évènements violents en infraction, en ce compris des attaques terroristes, des évènements incitant à la haine, des (tentatives de) tueries, des meurtres en série ou des crimes de haine. Nous n’autorisons pas non plus (1) les éloges, les soutiens techniques et les représentations des auteurs de ces attaques ; (2) le contenu généré par les auteurs de ces attaques ; ou (3) les images de tiers illustrant le moment de ces attaques sur des victimes visibles. Par ailleurs, nous supprimons les contenus qui glorifient, soutiennent techniquement ou représentent des idéologies qui incitent à la haine, telles que le nazisme et la suprématie blanche.
 
 Le **niveau 2** porte sur les entités qui se livrent à des actes de violence envers des acteurs étatiques ou militaires, mais qui ne ciblent généralement pas des civils, ce que nous appelons des « acteurs violents non étatiques ». Nous supprimons tous les soutiens techniques et les représentations de ces entités ainsi que de leurs dirigeants et membres éminents. Nous supprimons tout éloge des actes de violence de ces groupes.
 
@@ -66,7 +66,7 @@ Nous supprimons les représentations des entités bannies incitant à la haine, 
 
 Nous n’autorisons pas les personnes et les organisations suivantes à être présentes sur notre plateforme : celles qui sont impliquées dans des activités criminelles organisées, notamment celles que les États-Unis nomment Specially Designated Narcotics Trafficking Kingpins (c’est-à-dire les plaques tournantes du trafic de drogues) ; celles qui incitent à la haine ; ainsi que celles qui sont impliquées dans des activités terroristes, notamment les entités que les États-Unis qualifient de Foreign Terrorist Organizations ou de Specially Designated Global Terrorists (organisations étrangères considérées comme terroristes). Nous n’autorisons pas non plus d’autres personnes à représenter ces entités. Nous n’autorisons pas les dirigeants ou les membres importants de ces organisations à être présents sur la plateforme. Nous ne permettons pas non plus l’utilisation des symboles qui les représentent sur notre plateforme, ni les contenus qui font leur éloge ou celui de leurs actes. En outre, nous supprimons toute coordination d’un quelconque soutien technique envers ces individus et organismes.
 
-Nous n’autorisons pas les contenus qui glorifient, soutiennent techniquement ou représentent des évènements que Meta désigne comme des attaques terroristes, des évènements incitant à la haine, des tueries ou tentatives de tueries, des meurtres en série, des crimes de haine ou des évènements violents en infraction.
+Nous n’autorisons pas les contenus qui glorifient, soutiennent techniquement ou représentent des évènements que Meta désigne comme des attaques terroristes, des évènements incitant à la haine, des tueries ou tentatives de tueries, des meurtres en série, des crimes de haine ou des évènements violents en infraction. Nous n’autorisons pas non plus (1) les éloges, les soutiens techniques et les représentations des auteurs de ces attaques ; (2) le contenu généré par les auteurs de ces attaques ; ou (3) les images de tiers illustrant le moment de ces attaques sur des victimes visibles.
 
 Nous ne permettons pas non plus les éloges, les soutiens techniques ou les représentations d’idéologies désignées fondées sur la haine.
 
@@ -77,10 +77,12 @@ Nous ne permettons pas non plus les éloges, les soutiens techniques ou les repr
 * dans le but d’assujettir, d’intimider ou d’influencer une population civile, un gouvernement ou une organisation internationale
 * pour atteindre un objectif politique, religieux ou idéologique.
 
-**Les organisations incitant à la haine** sont définies comme des associations de trois personnes ou plus qui :
+**Entité motivée par la haine**, définie comme une organisation ou un individu qui propage et encourage la haine contre d'autres personnes sur la base de leurs caractéristiques protégées. Les activités de l’entité sont caractérisées par au moins l’un des comportements suivants :
 
-* sont organisées sous un nom, un signe ou un symbole ; et
-* dont l’idéologie, les déclarations ou les actions physiques portent atteinte à des individus en fonction de caractéristiques, notamment l’origine ethnique, l’affiliation religieuse, la nationalité, le handicap, le genre, le sexe, l’orientation sexuelle ou une maladie grave.
+* La violence, la rhétorique de menace ou les formes dangereuses de harcèlement visant des personnes sur la base de leurs caractéristiques protégées ;
+* Utilisation répétée de [discours haineux](https://transparency.fb.com/en-gb/policies/community-standards/hate-speech/) ;
+* Représentation d’idéologies de haine ou d’autres Entités motivées par la haine, et/ou
+* Glorification ou soutien substantiel d'autres Entités motivées par la haine ou Idéologies haineuses désignées.
 
 **Les organismes criminels** sont définis comme des associations de trois personnes ou plus qui :
 
@@ -90,7 +92,7 @@ Nous ne permettons pas non plus les éloges, les soutiens techniques ou les repr
 **Tueries et meurtres en série**
 
 * Nous considérons un évènement comme une tuerie ou une tentative de tuerie s’il fait au moins trois victimes en un incident, qu’il s’agisse de décès ou de blessures graves. Tout individu ayant commis une telle attaque est considéré comme l’auteur d’une tuerie ou l’auteur présumé d’une tuerie.
-* Nous considérons comme meurtrier en série tout individu ayant commis au moins deux meurtres au cours de plusieurs incidents ou à plusieurs endroits.
+* Nous considérons tout individu ayant commis au moins deux meurtres au cours de plusieurs incidents ou à plusieurs endroits comme un meurtrier en série.
 
 **Idéologies fondées sur la haine**
 
