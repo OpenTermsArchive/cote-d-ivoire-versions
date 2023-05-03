@@ -3,7 +3,7 @@ Biens et services restreints
 
 #### Justification de cette politique
 
-Pour encourager la sécurité et prévenir les activités potentiellement dangereuses, nous interdisons aux individus, aux fabricants et aux distributeurs d’acheter, de vendre, de mettre en jeu, d’offrir, de transférer ou d’échanger certains biens et services sur notre plateforme. Les magasins physiques et les distributeurs en ligne peuvent promouvoir les armes à feu, l’alcool et le tabac disponibles à la vente en dehors de nos services ; nous restreignons cependant la visibilité de ce contenu pour les mineurs. Nous autorisons les discussions liées à la vente de ces biens dans les magasins ou par les distributeurs en ligne, et nous plaidons pour que des changements soient opérés sur les réglementations liées aux biens et services couverts par cette politique.
+Pour encourager la sécurité et prévenir les activités potentiellement dangereuses, nous interdisons aux individus, aux fabricants et aux distributeurs d’acheter, de vendre, de mettre en jeu, d’offrir, de transférer ou d’échanger certains biens et services sur notre plateforme. Nous ne tolérons pas l'échange ou la vente de drogues susceptibles d'entraîner un abus de substances couvertes par nos politiques ci-dessous. Les magasins physiques et les distributeurs en ligne peuvent promouvoir les armes à feu, l’alcool et le tabac disponibles à la vente en dehors de nos services ; nous restreignons cependant la visibilité de ce contenu pour les mineurs. Nous autorisons les discussions liées à la vente de ces biens dans les magasins ou par les distributeurs en ligne, et nous plaidons pour que des changements soient opérés sur les réglementations liées aux biens et services couverts par cette politique.
 
 #### Ne publiez pas :
 
@@ -18,7 +18,7 @@ De contenu qui :
 * cherche à obtenir des armes à feu, des pièces d’armes à feu, des munitions, des explosifs ou des améliorations à visée meurtrière ;
 * vend, offre, échange, transfère, coordonne, promeut (dans le sens d’en parler positivement, d’encourager à leur utilisation) ou fournit des instructions de fabrication d’armes à feu ou de pièces d’armes à feu à l’aide d’imprimantes 3D ou d’un ordinateur, quel que soit le contexte ou la personne à l’origine de la publication.
 
-**Médicaments non médicaux (médicaments ou substances qui ne sont pas utilisées à des fins médicales prévues ou qui sont utilisées à des fins récréatives pour atteindre un état mental altéré).**
+**Substances non médicales (drogues ou substances qui ne sont pas utilisées à des fins médicales prévues ou qui sont utilisées pour atteindre un état d'euphorie ; cela inclut les précurseurs chimiques ou les substances qui sont utilisées pour la production de ces drogues.)**
 
 De contenu qui :
 
