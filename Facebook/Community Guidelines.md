@@ -53,7 +53,7 @@ Le contenu qui requiert des informations supplémentaires ou du contexte en vue 
 
 ###### VIOLENCE ET COMPORTEMENT CRIMINEL
 
-[Violence et incitation](https://transparency.fb.com/fr-fr/policies/community-standards/violence-incitement/)[Personnes et organisations dangereuses](https://transparency.fb.com/fr-fr/policies/community-standards/dangerous-individuals-organizations/)[Coordination d’actes dangereux et promotion d’actes criminels](https://transparency.fb.com/fr-fr/policies/community-standards/coordinating-harm-publicizing-crime/)[Biens et services restreints](https://transparency.fb.com/fr-fr/policies/community-standards/regulated-goods/)[Fraude et tromperie](https://transparency.fb.com/fr-fr/policies/community-standards/fraud-deception/)
+[Violence et incitation](https://transparency.fb.com/fr-fr/policies/community-standards/violence-incitement/)[Organisations et personnes dangereuses](https://transparency.fb.com/fr-fr/policies/community-standards/dangerous-individuals-organizations/)[Coordination d’actes dangereux et promotion d’actes criminels](https://transparency.fb.com/fr-fr/policies/community-standards/coordinating-harm-publicizing-crime/)[Biens et services restreints](https://transparency.fb.com/fr-fr/policies/community-standards/regulated-goods/)[Fraude et tromperie](https://transparency.fb.com/fr-fr/policies/community-standards/fraud-deception/)
 
 ###### SÉCURITÉ
 
