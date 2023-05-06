@@ -1652,7 +1652,7 @@ Nous partageons les [informations que nous recueillons](#1-WhatInformationDoWe) 
 Où ces informations sont-elles transférées ?
 --------------------------------------------
 
-Vos informations seront transférées ou transmises, ou stockées et traitées dans :
+Vos informations seront transférées ou transmises, ou bien stockées et traitées dans :
 
 * Des lieux où nous disposons d’infrastructures ou de data centers, notamment les États-Unis, l’Irlande, le Danemark et la Suède
 * Les pays où les Produits des entités Meta sont disponibles
@@ -1663,7 +1663,7 @@ Comment protégeons-nous vos informations ?
 
 Nous nous appuyons sur des [mécanismes appropriés\[54\]](#annotation-54) pour les transferts de données internationaux.
 
-Nous nous assurons également que des protections appropriées sont en place quand nous transférons vos informations. Par exemple, nous chiffrons vos informations lorsqu’elles sont transmises par des réseaux publics pour éviter tout accès non autorisé.
+Nous veillons également à ce que des garanties appropriées soient mises en place quand nous transférons vos informations. Par exemple, nous chiffrons vos informations lorsqu’elles sont transmises par des réseaux publics pour éviter tout accès non autorisé.
 
 54
 
