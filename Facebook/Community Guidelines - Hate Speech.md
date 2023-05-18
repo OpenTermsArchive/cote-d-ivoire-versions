@@ -23,7 +23,7 @@ Du contenu ciblant une personne ou un groupe de personnes (y compris tous les gr
     * Des animaux en général ou certains types d’animaux perçus dans une culture comme inférieurs intellectuellement ou physiquement (notamment, sans s’y limiter, les personnes noires de peau et les singes ou les créatures ressemblant à des singes ; les personnes de confession juive et les rats ; les personnes de confession musulmane et les porcs ; les personnes mexicaines et les vers de terre)
     * De la saleté (notamment, sans s’y limiter, les salissures et la crasse)
     * Les bactéries, les virus ou les microbes
-    * Les maladies (notamment,sans s’y limiter, le cancer et les maladies sexuellement transmissibles)
+    * Les maladies (notamment, sans s’y limiter, le cancer et les maladies sexuellement transmissibles)
     * Les excréments (notamment, sans s’y limiter, la merde et les déjections)
     * Des sous-hommes (notamment, sans s’y limiter, les sauvages, les démons, les monstres, les créatures primitives)
     * Des prédateurs sexuels (notamment, sans s’y limiter, les personnes de confession musulmane ayant des rapports sexuels avec des chèvres ou des porcs)
@@ -78,7 +78,7 @@ Du contenu ciblant une personne ou un groupe de personnes par rapport à des car
 * Une ségrégation sous forme d’appels à l’action, de déclarations d’intention, de déclarations d’aspiration ou conditionnelles ou de déclarations prônant ou soutenant la ségrégation.
 * Une exclusion sous forme d’appels à l’action, de déclarations d’intention, de déclarations d’aspiration ou conditionnelles ou de déclarations prônant ou soutenant les types d’exclusion suivants :
     * L’exclusion explicite, comme l’expulsion de certains groupes ou le fait de dire qu’ils ne sont pas autorisés.
-    * L’exclusion politique, qui désigne le refus du droit à la participation politique.
+    * L'exclusion politique, comme le refus du droit à la participation politique.
     * L’exclusion économique caractérisée comme un déni du droit d’accès aux avantages économiques et une participation limitée au marché du travail.
     * L’exclusion sociale, comme le refus de l’accès à des lieux (physiques ou virtuels) et aux services sociaux, à l’exception de l’exclusion liée au genre dans les Groupes de santé et de soutien positif.
 
