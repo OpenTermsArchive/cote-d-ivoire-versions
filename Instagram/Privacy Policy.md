@@ -218,7 +218,9 @@ Les Partenaires partagent également avec nous les communications qu’ils tienn
 Prendre les commandes
 ---------------------
 
-[Activité en dehors de Facebook
+[![](https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/0jathuaw8di.png)
+
+Activité en dehors de Facebook
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/Ugp5T2TLXQD.png)![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AOFF_FACEBOOK_ACTIVITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A1.subpage.4-InformationFromPartnersVendors&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foff_facebook_activity%2F)
 
@@ -677,7 +679,9 @@ Voici certaines façons dont nous promouvons la sûreté, la sécurité et l’i
 Prendre les commandes
 ---------------------
 
-[Sécurité du compte
+[![](https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/qQOzBeC5Kon.png)
+
+Sécurité du compte
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCOUNT_SECURITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A2.subpage.8-PromotingSafetySecurityAnd&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-2%26link_dialog%3DACCOUNT_SECURITY%26entry%3D0)
 
@@ -716,7 +720,9 @@ Nous utilisons également les informations sur la manière dont vous interagisse
 Prendre les commandes
 ---------------------
 
-[Préférences de communication
+[![](https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/EDR5jrsXYyg.png)
+
+Préférences de communication
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ACOMMUNICATION_PREFERENCES&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A2.subpage.12-CommunicatingWithYouWe&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-3%26link_dialog%3DCOMMUNICATION_PREFERENCES%26entry%3D0)
 
@@ -1485,24 +1491,38 @@ Vérifier vos paramètres de confidentialité Être guidé au travers des param�
 Visualiser et gérer vos informations
 ------------------------------------
 
-[Accéder à vos informations
+[![](https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/0jathuaw8di.png)
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCESS_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-6%26link_dialog%3DACCESS_YOUR_INFORMATION%26entry%3D0)[Activité en dehors de Facebook
+Accéder à vos informations
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/Ugp5T2TLXQD.png)![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AOFF_FACEBOOK_ACTIVITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foff_facebook_activity%2F)[Préférences publicitaires
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCESS_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-6%26link_dialog%3DACCESS_YOUR_INFORMATION%26entry%3D0)[![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/fjBNru4FhRC.png)
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/Ugp5T2TLXQD.png)![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AAD_PREFERENCES&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fsettings%2Fads%2F)[Gérer vos données
+Activité en dehors de Facebook
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/Ugp5T2TLXQD.png)![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AOFF_FACEBOOK_ACTIVITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foff_facebook_activity%2F)[![](https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/6Bm_9fBCFrU.png)
+
+Préférences publicitaires
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/Ugp5T2TLXQD.png)![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AAD_PREFERENCES&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fsettings%2Fads%2F)[![](https://static.xx.fbcdn.net/rsrc.php/v3/ym/r/PF8ZQTAtthn.png)
+
+Gérer vos données
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/arJG_EHnffQ.png)](https://www.facebook.com/help/contact/1638046109617856)
 
 Transférer, télécharger ou supprimer vos informations
 -----------------------------------------------------
 
-[Transférer vos informations \[46\]
+[![](https://static.xx.fbcdn.net/rsrc.php/v3/ym/r/PF8ZQTAtthn.png)
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](#annotation-46)[Télécharger vos informations
+Transférer vos informations \[46\]
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ADOWNLOAD_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-9%26link_dialog%3DDOWNLOAD_YOUR_INFORMATION%26entry%3D0)[Supprimer vos informations ou votre compte \[47\]
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](#annotation-46)[![](https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/wjCHppocQ7s.png)
+
+Télécharger vos informations
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ADOWNLOAD_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-9%26link_dialog%3DDOWNLOAD_YOUR_INFORMATION%26entry%3D0)[![](https://static.xx.fbcdn.net/rsrc.php/v3/yF/r/AMj4ewhQ8X0.png)
+
+Supprimer vos informations ou votre compte \[47\]
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/lSlNlO9yRuL.png)](#annotation-47)
 
