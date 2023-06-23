@@ -7,7 +7,7 @@ Les Standards de la communauté Facebook définissent ce qui est autorisé et ce
 
 Chaque jour, les personnes utilisent Facebook pour partager des expériences, communiquer avec leurs proches et créer des communautés. Ce service permet à plus de 2 milliards de personnes de s’exprimer librement, au-delà des frontières et des cultures, dans des dizaines de langues.
 
-Meta est conscient de l’importance d’offrir un espace encourageant la communication, et nous prenons notre rôle très au sérieux afin d’écarter tout abus du service. Aussi avons-nous élaboré des normes qui définissent ce qui est autorisé ou ce qui ne l’est pas sur Facebook.
+Meta est conscient de l'importance pour Facebook d'offrir un espace où les utilisateurs se sentent libres de communiquer, et nous prenons notre rôle au sérieux afin d'empêcher tout abus de se produire sur le service. Aussi avons-nous élaboré des normes qui définissent ce qui est autorisé ou ce qui ne l’est pas sur Facebook.
 
 Ces normes sont fondées sur les retours d’utilisateurs et l’avis de spécialistes dans des domaines tels que les technologies, la sécurité publique et les droits de l’homme. Pour nous assurer que tout le monde a voix au chapitre, nous nous efforçons de créer des normes qui prennent en compte les différents points de vue et croyances, en particulier ceux des personnes et communautés marginalisées ou négligées.
 
@@ -17,7 +17,7 @@ Ces normes sont fondées sur les retours d’utilisateurs et l’avis de spécia
 
 ### Nos engagements en matière de liberté d’expression
 
-L’objectif de nos Standards de la communauté est de créer un lieu d’expression qui donne la parole à tous. Meta souhaite que les utilisateurs puissent s’exprimer ouvertement sur les sujets qui comptent pour eux, que ce soit via des commentaires, des photos, de la musique ou d’autres moyens d’expression artistique, même si d’autres peuvent être en désaccord ou y trouver à redire. Dans certains cas, nous autorisons la publication de contenu qui va à l’encontre de nos Standards s’il est [pertinent](https://transparency.fb.com/features/approach-to-newsworthy-content/) et d’intérêt public. Nous ne prenons cette décision qu’après avoir évalué l’impact positif qu’il représente pour l’intérêt public par rapport à son éventuel préjudice ; pour ce faire, nous nous appuyons sur les principes universels des droits de l’homme. Dans d’autres cas, nous pouvons supprimer du contenu utilisant un langage ambigu ou implicite, si après avoir eu accès à d’avantage de contexte nous déterminons raisonnablement que ce contenu enfreint nos Standards.
+L’objectif de nos Standards de la communauté est de créer un lieu d’expression qui donne la parole à tous. Meta souhaite que les utilisateurs puissent s’exprimer ouvertement sur les sujets qui comptent pour eux, que ce soit via des commentaires, des photos, de la musique ou d’autres moyens d’expression artistique, même si certains peuvent être en désaccord ou y trouver à redire. Dans certains cas, nous autorisons la publication de contenu qui va à l’encontre de nos Standards s’il est [pertinent](https://transparency.fb.com/features/approach-to-newsworthy-content/) et d’intérêt public. Nous ne prenons cette décision qu’après avoir évalué l’impact positif qu’il représente pour l’intérêt public par rapport à son éventuel préjudice ; pour ce faire, nous nous appuyons sur les principes universels des droits de l’homme. Dans d’autres cas, nous pouvons supprimer du contenu utilisant un langage ambigu ou implicite, si après avoir eu accès à d’avantage de contexte nous déterminons raisonnablement que ce contenu enfreint nos Standards.
 
 Notre engagement en faveur de la liberté d’expression est primordial, mais nous sommes conscients qu’Internet est une source de formes d’abus nouvelles et croissantes. Lorsque nous limitons la liberté d’expression, nous le faisons pour assurer le respect de l’une ou de plusieurs des valeurs suivantes :
 
@@ -29,7 +29,7 @@ Nous voulons nous assurer que le contenu vu sur Facebook est authentique. Nous s
 SÉCURITÉ
 --------
 
-Nous nous engageons à faire de Facebook un endroit sûr. Nous supprimons les contenus susceptibles de menacer la sécurité physique. Les formes d’expression menaçantes peuvent intimider les autres personnes, les exclure ou les réduire au silence, et ne sont donc pas autorisées sur Facebook.
+Nous nous engageons à faire de Facebook un endroit sûr. Nous supprimons les contenus susceptibles de menacer la sécurité physique. Les contenus menaçants sont susceptibles d'intimider, d'exclure ou de réduire au silence certaines personnes, et ne sont pas autorisés sur Facebook.
 
 CONFIDENTIALITÉ
 ---------------
@@ -61,7 +61,7 @@ Le contenu qui requiert des informations supplémentaires ou du contexte en vue 
 
 ###### CONTENU RÉPRÉHENSIBLE
 
-[Discours haineux](https://transparency.fb.com/fr-fr/policies/community-standards/hate-speech/)[Contenu violent et explicite](https://transparency.fb.com/fr-fr/policies/community-standards/violent-graphic-content/)[Nudité et activités sexuelles chez les adultes](https://transparency.fb.com/fr-fr/policies/community-standards/adult-nudity-sexual-activity/)[Sollicitation sexuelle](https://transparency.fb.com/fr-fr/policies/community-standards/sexual-solicitation/)
+[Discours haineux](https://transparency.fb.com/fr-fr/policies/community-standards/hate-speech/)[Contenu violent et explicite](https://transparency.fb.com/fr-fr/policies/community-standards/violent-graphic-content/)[Nudité et activités sexuelles des adultes](https://transparency.fb.com/fr-fr/policies/community-standards/adult-nudity-sexual-activity/)[Sollicitation sexuelle](https://transparency.fb.com/fr-fr/policies/community-standards/sexual-solicitation/)
 
 ###### INTÉGRITÉ ET AUTHENTICITÉ
 
