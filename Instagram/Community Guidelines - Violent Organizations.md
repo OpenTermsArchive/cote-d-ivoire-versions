@@ -77,12 +77,12 @@ Nous ne permettons pas non plus les éloges, les soutiens techniques ou les repr
 * dans le but d’assujettir, d’intimider ou d’influencer une population civile, un gouvernement ou une organisation internationale
 * pour atteindre un objectif politique, religieux ou idéologique.
 
-**Entité motivée par la haine**, définie comme une organisation ou un individu qui propage et encourage la haine contre d'autres personnes sur la base de leurs caractéristiques protégées. Les activités de l’entité sont caractérisées par au moins l’un des comportements suivants :
+**Entité motivée par la haine**, définie comme une organisation ou un individu qui propage et encourage la haine contre d’autres personnes sur la base de leurs caractéristiques protégées. Les activités de l’entité sont caractérisées par au moins l’un des comportements suivants :
 
 * La violence, la rhétorique de menace ou les formes dangereuses de harcèlement visant des personnes sur la base de leurs caractéristiques protégées ;
 * Utilisation répétée de [discours haineux](https://transparency.fb.com/en-gb/policies/community-standards/hate-speech/) ;
 * Représentation d’idéologies de haine ou d’autres Entités motivées par la haine, et/ou
-* Glorification ou soutien substantiel d'autres Entités motivées par la haine ou Idéologies haineuses désignées.
+* Glorification ou soutien substantiel d’autres Entités motivées par la haine ou Idéologies haineuses désignées.
 
 **Les organismes criminels** sont définis comme des associations de trois personnes ou plus qui :
 
