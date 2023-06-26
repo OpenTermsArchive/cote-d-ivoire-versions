@@ -32,7 +32,7 @@ Du contenu qui partage ou sollicite l’une des informations privées suivantes,
 
 **Autres informations privées**
 
-* Les coordonnées personnelles de tiers comme les numéros de téléphone, les adresses et les adresses e-mail sauf lorsqu’elles sont partagées ou sollicitées pour promouvoir des causes caritatives, rechercher des personnes, des animaux ou des objets disparus, ou contacter des fournisseurs de services commerciaux.
+* Les coordonnées personnelles de tiers comme les numéros de téléphone, les adresses et les adresses e-mail, sauf lorsqu’elles sont partagées ou sollicitées pour promouvoir des causes caritatives, rechercher des personnes, des animaux ou des objets disparus, ou contacter des fournisseurs de services commerciaux.
 * Informations financières.
     * Des informations personnelles financières sur vous ou des tiers, notamment :
         * Des entrées ou déclarations financières qui ne sont pas publiques.
@@ -50,14 +50,14 @@ Du contenu qui partage ou sollicite l’une des informations privées suivantes,
         * La ville/le quartier ou les coordonnées GPS (par exemple, un marqueur de Google Maps) sont identifiés.
         * Le contenu identifie le ou les résidents.
         * Ce résident s’oppose à l’exposition de sa résidence privée ou il existe un contexte d’organisation de manifestations contre le résident (cela n’inclut pas les ambassades qui servent également de résidences).
-    * Le contenu qui expose des informations sur des résidences protégées en partageant l’un des éléments ci-dessous, sauf si la résidence protégée fait activement la promotion d’informations sur leurs installations.
+    * Le contenu qui révèle des informations sur des résidences protégées en partageant l’un des éléments ci-dessous, sauf si la résidence protégée fait activement la promotion d’informations sur leurs installations.
         * Adresse réelle (note : la mention de la « boîte postale uniquement » est autorisée).
         * Images de la résidence protégée.
-        * Informations identifiables sur la ville ou le quartier où la résidence protégée est établie.
+        * Ville/quartier identifiable de la résidence protégée.
         * Informations exposant l’identité des résidents de la résidence protégée.
 
 * Informations médicales.
-    * Entrées ou documents officiels contenant des données médicales, psychologiques, biométriques ou génétiques de tiers.
+    * Dossiers ou documents officiels présentant des données médicales, psychologiques, biométriques ou génétiques de tiers.
 
 * Informations obtenues à partir de sources piratées.
     * Sauf dans de rares cas d’intérêt journalistique, tout contenu provenant ou revendiqué auprès d’une source piratée, que la personne concernée soit une personnalité publique ou une personne privée.
