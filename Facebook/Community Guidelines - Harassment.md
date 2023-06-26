@@ -54,11 +54,11 @@ Remarque : cette politique ne s’applique pas aux personnes faisant partie d�
 * Des insultes misogynes lorsqu’elles sont utilisées de façon péjorative.
 * Des allégations au sujet d’activités sexuelles ou de maladies sexuellement transmissibles, sauf si elles sont publiées en rapport avec des allégations criminelles d’attouchements sexuels non consentis formulées à l’encontre d’adultes.
 * Des Pages ou des Groupes créés pour lancer des attaques sous la forme :
-    * D’insultes ciblées.
+    * des insultes ciblées.
     * De description négative d’une partie du corps.
     * D’accusations sur sa croyance ou de blasphème.
     * D’expressions de mépris ou de dégoût.
-    * D’insultes misogynes lorsqu’elles sont utilisées de façon péjorative.
+    * Des insultes misogynes lorsqu’elles sont utilisées de façon péjorative.
 
 **Niveau 3 : Cibler des personnalités publiques en les exposant à dessein à :**
 
@@ -88,7 +88,7 @@ Remarque : cette politique ne s’applique pas aux personnes faisant partie d�
 
 **Niveau 5 : Cibler des adultes privés (qui doivent faire eux-mêmes le signalement), des mineurs privés ou des personnalités mineures involontairement publiques avec :**
 
-* Des insultes ciblées.
+* des insultes ciblées.
 * Des déclarations concernant une liaison, l’orientation sexuelle ou l’identité sexuelle.
 * La coordination, l’incitation ou la promotion de l’exclusion.
 * Des déclarations d’incompétence ou à caractère négatif, sauf dans le contexte d’allégations criminelles ou de rapports d’activité contre des adultes. Nous autorisons les allégations criminelles afin que l’accent puisse être mis sur des expériences personnelles ou des évènements hors ligne. Toutefois, si les allégations criminelles portent préjudice hors ligne à la personne visée, nous pouvons les supprimer.
@@ -104,7 +104,7 @@ Remarque : cette politique ne s’applique pas aux personnes faisant partie d�
 * Du harcèlement exprimé à la première personne.
 * Des images trafiquées indésirables.
 * Une comparaison à d’autres personnes publiques, fictives ou privées fondée sur l’apparence.
-* Des accusations sur sa croyance ou de blasphème.
+* D’accusations sur sa croyance ou de blasphème.
 * Des comparaisons à des animaux ou à des insectes qui ne sont pas perçus socialement comme inférieurs intellectuellement ou physiquement (« tigre », « lion », etc.).
 * Descriptions physiques neutres ou positives.
 * Des déclarations d’incompétence ou à caractère non négatif (notamment des déclarations sur la maladie mentale).
